@@ -27,5 +27,11 @@ Entre com a altura: 1.71
 IMC: 18.467220683287167
 Condição: abaixo do peso
 ```
+```
+Entre com o peso: 65
+Entre com a altura: 1.75
+IMC: 21.224489795918366
+Condição: peso normal
+```
 
 

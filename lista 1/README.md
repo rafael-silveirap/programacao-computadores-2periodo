@@ -21,7 +21,7 @@ Em outras palavras, o IMC é uma razão entre o peso de um indivíduo eo quadrad
 
 Escreva um programa em Python que leia o peso de uma pessoa e a sua respectiva altura e informe seu IMC juntamente com a sua devida condição de acordo com a tabela acima.<br>
 Exemplos:
-```md
+```html
 Entre com o peso: 54
 Entre com a altura: 1.71
 IMC: 18.467220683287167

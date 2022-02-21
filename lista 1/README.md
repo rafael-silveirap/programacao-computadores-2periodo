@@ -17,5 +17,5 @@ O Índice de Massa Corporal (IMC) de uma pessoa é calculado segundo a fórmula:
 
 em outras palavras, o IMC é uma razão entre o peso de um indivíduo eo quadrado de sua altura. A partir do cálculo do IMC, a Organização Mundial de Saúde define a condição referente ao peso de um adulto de acordo com a seguinte tabela: <br>
 
-<img src="https://media.discordapp.net/attachments/859912057163874315/945397258709508166/unknown.png" width="200">
+<img src="https://media.discordapp.net/attachments/859912057163874315/945397258709508166/unknown.png" width="400">
 

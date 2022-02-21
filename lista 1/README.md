@@ -13,7 +13,5 @@ Esse número não é multiplo de três!
 
 ## Exercício 2:
 O Índice de Massa Corporal (IMC) de uma pessoa é calculado segundo a fórmula:
-<p align="center">$$IMC = \frac{peso}{altura^2}$$</p>
-<br><br><br><br>
-$$ \frac{-b \pm \sqrt{b - 4 a c}}{2 a} $$
+<p align="center"><img src="https://render.githubusercontent.com/render/math?math= IMC = \frac{*peso*}{*altura*^2}></p>
 

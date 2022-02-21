@@ -2,6 +2,7 @@
 ## Exercício 1:
 Escreva um programa que leia um número inteiro positivo do teclado e informe se ele é múltiplo de 3. <br>
 Exemplos:
+$$ \frac{-b \pm \sqrt{b - 4 a c}}{2 a} $$
 ```
 Digite um numero: 9
 Esse número é multiplo de três!

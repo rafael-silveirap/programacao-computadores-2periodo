@@ -43,10 +43,8 @@ Exemplos:
 Digite a coordenada x do centro do circulo: 10
 Digite a coordenada y do centro do circulo: 5
 Digite o raio do circulo: 4
-
 Digite a coordenada x do ponto de teste: 9
 Digite a coordenada y do ponto de teste: 6
-
 O ponto de teste está dentro do circulo
 ```
 
@@ -54,10 +52,8 @@ O ponto de teste está dentro do circulo
 Digite a coordenada x do centro do circulo: 1
 Digite a coordenada y do centro do circulo: 2
 Digite o raio do circulo: 5
-
 Digite a coordenada x do ponto de teste: 1
 Digite a coordenada y do ponto de teste: 2
-
 Ponto de teste está no centro do circulo
 ```
 

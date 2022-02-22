@@ -1,5 +1,5 @@
 # Lista 1
-## Exercício 1:
+## Exercício 1
 Escreva um programa que leia um número inteiro positivo do teclado e informe se ele é múltiplo de 3. <br>
 Exemplos:
 ```
@@ -11,7 +11,7 @@ Digite um numero: 17
 Esse número não é multiplo de três!
 ```
 
-## Exercício 2:
+## Exercício 2
 O Índice de Massa Corporal (IMC) de uma pessoa é calculado segundo a fórmula: <br> <br>
 <p align="center"><img src="https://media.discordapp.net/attachments/780042178424471583/945395749733142608/751211349627109416.png" width="200"></p> <br>
 
@@ -34,7 +34,7 @@ IMC: 21.224489795918366
 Condição: peso normal
 ```
 
-## Exercício 3:
+## Exercício 3
 Escreva um programa que leia as coordenadas do centro de um círculo (em um plano cartesiano) juntamente com o seu raio, e então informe se um determinado ponto de teste lido está dentro do círculo, no centro do círculo, na circunferência (fronteira) ou fora do círculo. Assuma que não ocorrem erros de arredondamento nos cálculos e que o usuário sempre fornece valores válidos. Apenas para lembrar, a equação da circunferência é dada por: <br>
 
 <p align="center"><img src="https://media.discordapp.net/attachments/780042178424471583/945643298159226890/751211349627109416.png?width=1440&height=232" width="250"></p>

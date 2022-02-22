@@ -39,6 +39,7 @@ Escreva um programa que leia as coordenadas do centro de um círculo (em um plan
 <p align="center"><img src="https://media.discordapp.net/attachments/780042178424471583/945643298159226890/751211349627109416.png?width=1440&height=232" width="250"></p> <br>
 Onde *(xc, yc)* são as coordenadas do centro da circunferência e *r* é oraio. Lembre-se de que seu programa deve informar em qual das *quatro* categorias está o ponto de teste. <br>
 Exemplos:
+
 ```
 Digite a coordenada x do centro do circulo: 10
 Digite a coordenada y do centro do circulo: 5

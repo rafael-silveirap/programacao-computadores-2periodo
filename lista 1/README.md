@@ -19,7 +19,7 @@ Em outras palavras, o IMC é uma razão entre o peso de um indivíduo eo quadrad
 
 <p align="center"><img src="https://media.discordapp.net/attachments/859912057163874315/945397258709508166/unknown.png" width="400"></p> <br>
 
-Escreva um *programa* em Python que leia o peso de uma pessoa e a sua respectiva altura e informe seu IMC juntamente com a sua devida condição de acordo com a tabela acima.<br>
+Escreva um programa em Python que leia o peso de uma pessoa e a sua respectiva altura e informe seu IMC juntamente com a sua devida condição de acordo com a tabela acima.<br>
 Exemplos:
 ```
 Entre com o peso: 54
@@ -36,7 +36,9 @@ Condição: peso normal
 
 ## Exercício 3:
 Escreva um programa que leia as coordenadas do centro de um círculo (em um plano cartesiano) juntamente com o seu raio, e então informe se um determinado ponto de teste lido está dentro do círculo, no centro do círculo, na circunferência (fronteira) ou fora do círculo. Assuma que não ocorrem erros de arredondamento nos cálculos e que o usuário sempre fornece valores válidos. Apenas para lembrar, a equação da circunferência é dada por: <br>
-<p align="center"><img src="https://media.discordapp.net/attachments/780042178424471583/945643298159226890/751211349627109416.png?width=1440&height=232" width="250"></p> 
+
+<p align="center"><img src="https://media.discordapp.net/attachments/780042178424471583/945643298159226890/751211349627109416.png?width=1440&height=232" width="250"></p>
+
 Onde *(xc, yc)* são as coordenadas do centro da circunferência e *r* é o raio. Lembre-se de que seu programa deve informar em qual das *quatro* categorias está o ponto de teste. <br>
 Exemplos:
 

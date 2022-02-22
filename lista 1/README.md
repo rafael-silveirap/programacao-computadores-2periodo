@@ -37,6 +37,30 @@ Condição: peso normal
 ## Exercício 3:
 Escreva um programa que leia as coordenadas do centro de um círculo (em um plano cartesiano) juntamente com o seu raio, e então informe se um determinado ponto de teste lido está dentro do círculo, no centro do círculo, na circunferência (fronteira) ou fora do círculo. Assuma que não ocorrem erros de arredondamento nos cálculos e que o usuário sempre fornece valores válidos. Apenas para lembrar, a equação da circunferência é dada por: <br>
 <p align="center"><img src="https://media.discordapp.net/attachments/780042178424471583/945643298159226890/751211349627109416.png?width=1440&height=232" width="250"></p> <br>
+Onde *(xc, yc)* são as coordenadas do centro da circunferência e *r* é oraio. Lembre-se de que seu programa deve informar em qual das *quatro* categorias está o ponto de teste. <br>
+Exemplos:
+```
+Digite a coordenada x do centro do circulo: 10
+Digite a coordenada y do centro do circulo: 5
+Digite o raio do circulo: 4
+
+Digite a coordenada x do ponto de teste: 9
+Digite a coordenada y do ponto de teste: 6
+
+O ponto de teste está dentro do circulo
+```
+```
+Digite a coordenada x do centro do circulo: 1
+Digite a coordenada y do centro do circulo: 2
+Digite o raio do circulo: 5
+
+Digite a coordenada x do ponto de teste: 1
+Digite a coordenada y do ponto de teste: 2
+
+Ponto de teste está no centro do circulo
+```
+
+
 
 
 

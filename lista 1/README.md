@@ -1,6 +1,6 @@
 # Lista 1
 ## Exercício 1:
-Escreva um programa que leia um número inteiro positivo do teclado e informe se ele é múltiplo de 3. <br>
+Escreva um *programa* que leia um número inteiro positivo do teclado e informe se ele é múltiplo de 3. <br>
 Exemplos:
 ```
 Digite um numero: 9

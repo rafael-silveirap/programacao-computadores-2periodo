@@ -64,6 +64,13 @@ Digite a coordenada y do ponto de teste: 2
 Ponto de teste está no centro do circulo
 ```
 
+## Exercício 4
+
+A *Bachatóvia* adota a Tabela abaixo para o cálculo do seu imposto de renda. Faça um programa que peça a renda anual de um contribuinte e calcule o seu devido imposto, de acordo com a tabela.
+
+<p align="center"><img src="https://media.discordapp.net/attachments/859912057163874315/946018813311332392/unknown.png" width="400"></p>
+
+
 
 
 

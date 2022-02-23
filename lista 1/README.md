@@ -68,7 +68,25 @@ Ponto de teste está no centro do circulo
 
 A *Bachatóvia* adota a Tabela abaixo para o cálculo do seu imposto de renda. Faça um programa que peça a renda anual de um contribuinte e calcule o seu devido imposto, de acordo com a tabela.
 
-<p align="center"><img src="https://media.discordapp.net/attachments/859912057163874315/946018813311332392/unknown.png" width="400"></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/859912057163874315/946018813311332392/unknown.png" width="550"></p>
+
+Exemplos:
+
+```
+Digite a sua renda anual: -20
+Renda invalida!
+```
+```
+Digite a sua renda anual: 21451
+Imposto: 3117.78
+```
+
+Obs: note que, no exemplo acima os 28% foram calculados sobre o valor da renda que ultrapassou 21450. Assim, o imposto foi de 3117,50 + 28%(21451 - 21450) = 3117,78 . O mesmo vale para o exemplo abaixo, em sua respectiva categoria.
+
+```
+Digite a sua renda anual: 52000
+Imposto: 11774.0
+```
 
 
 

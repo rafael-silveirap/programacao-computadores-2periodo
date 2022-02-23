@@ -88,6 +88,19 @@ Digite a sua renda anual: 52000
 Imposto: 11774.0
 ```
 
+## Exercício 5
+
+Faça um programa para calcular a média final de um aluno da matéria de Abstração I da Universidade da Bachatóvia. As provas dessa universidade são pontuadas de 0 a 10, podendo haver casas decimais nas notas. A média final deve ser calculada segundo as regras abaixo:
+
+- O programa deve receber inicialmente dois números representando as notas da Prova 1 (P1) e da Prova 2 (P2) do aluno. Se a média M1 for maior ou igual que 7,0, o aluno estará aprovado direto. Se essa mesma média for menor que 4,0, o aluno estará reprovado direto. Nesses dois casos, esta média M1 será a média final do aluno.
+- Caso a média M1 do aluno fique entre 4,0 e 7,0, o aluno deve realizar uma Prova Final (PF). Apenas nesse caso, o programa deverá pedir também a nota da PF. A média final MF será então calculada. Para este último caso, se MF for maior ou igual que 6,0, o aluno estará aprovado. Caso contrário, estará reprovado.
+
+Considere:
+
+
+<p><img src="https://media.discordapp.net/attachments/780042178424471583/945648150742458388/751211349627109416.png" width="250"></p>
+<p><img src="https://media.discordapp.net/attachments/780042178424471583/945648336222978048/751211349627109416.png" width="250"></p>
+
 
 
 

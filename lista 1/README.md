@@ -98,9 +98,27 @@ Faça um programa para calcular a média final de um aluno da matéria de Abstra
 Considere:
 
 
-<p><img src="https://media.discordapp.net/attachments/780042178424471583/945648150742458388/751211349627109416.png" width="250"></p>
-<p><img src="https://media.discordapp.net/attachments/780042178424471583/945648336222978048/751211349627109416.png" width="250"></p>
+<p><img src="https://media.discordapp.net/attachments/780042178424471583/945648150742458388/751211349627109416.png" width="240"></p>
+<p><img src="https://media.discordapp.net/attachments/780042178424471583/945648336222978048/751211349627109416.png" width="240"></p>
 
+
+Exemplos:
+
+```
+Digite a nota da P1: 8.5
+Digite a nota da P2: 9.5
+Situacao: Aprovado direto. Media final: 9.0
+```
+```
+Digite a nota da P1: 6
+Digite a nota da P2: 5
+Digite a nota da PF: 6.5
+Situacao: Aprovado. Media final: 6.0
+```
+```
+Digite a nota da P1: 12
+Nota invalida!
+```
 
 
 

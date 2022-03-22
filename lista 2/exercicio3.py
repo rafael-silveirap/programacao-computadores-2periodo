@@ -1,8 +1,8 @@
-soma = 0
 escolha = 1
 while escolha == 1:
     numero = int(input("Entre com o número: "))
     n = numero
+    soma = 0
     while n > 0:
         digito = n%10
         n = n//10

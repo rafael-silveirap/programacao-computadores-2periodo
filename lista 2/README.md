@@ -1,4 +1,4 @@
-# Lista 1
+# Lista 2
 ## Exercício 1
 Escreva um programa que leia um conjunto de números (termos) do teclado e imprima o produto de todos esses números. Antes de começar a ler os números, o programa deve solicitar o total de termos que o usuário pretende entrar. Não se esqueça de que um produtório de 0 termos deve resultar em **zero**.
 
